@@ -1,0 +1,13 @@
+005 (9445505.000.000) 03/26 14:34:14 Job terminated.
+	(1) Normal termination (return value 135)
+		Usr 2 18:59:56, Sys 0 00:46:51  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 2 18:59:56, Sys 0 00:46:51  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	7181611  -  Run Bytes Sent By Job
+	198  -  Run Bytes Received By Job
+	7181611  -  Total Bytes Sent By Job
+	198  -  Total Bytes Received By Job
+
+	Job terminated of its own accord at 2024-03-26T13:34:14Z.
+...
